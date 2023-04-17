@@ -14,3 +14,4 @@
 - [Var Data Type in Dart Language](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Relational Operator in Dart Language](https://www.youtube.com/@Productmanagemententrepreneur)
 - [Equality Operator in Dart Language](https://www.youtube.com/@Productmanagemententrepreneur)
+- [Logical Operator in Dart Language](https://www.youtube.com/@Productmanagemententrepreneur)
